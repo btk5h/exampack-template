@@ -1,0 +1,11 @@
+{
+  "name": "exampack-template",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "exampack start"
+  },
+  "private": true,
+  "dependencies": {
+    "exampack": "^0.1.0"
+  }
+}

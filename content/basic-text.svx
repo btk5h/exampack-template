@@ -1,0 +1,5 @@
+---
+layout: short-answer
+height: 4
+---
+This is basic text question using the short-answer template.

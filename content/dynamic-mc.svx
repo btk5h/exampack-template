@@ -1,0 +1,15 @@
+---
+layout: multiple-choice
+---
+<script>
+  export let params;
+</script>
+
+This is dynamic multiple choice question using the multiple-choice template.
+
+Here are the params that have been passed to this question: <code>{JSON.stringify(params)}</code>
+
+- Answer A
+- Answer B
+- Answer C
+- Answer D

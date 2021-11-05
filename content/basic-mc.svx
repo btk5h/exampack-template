@@ -1,0 +1,9 @@
+---
+layout: multiple-choice
+---
+This is basic multiple choice question using the multiple-choice template.
+
+- Answer A
+- Answer B
+- Answer C
+- Answer D
